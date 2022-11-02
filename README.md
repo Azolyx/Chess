@@ -3,7 +3,7 @@
 
 ## Description
 
-When you start the program the board will set itself up. Follow all the normal chess rules and play.
+This is chess coded in pure java. It follows all the regular rules of chess. The board automaticly sets itself up when you start the app, after each move the board will flip letting the other person play a move. It is meant to be played by 2 people on 1 computer.
 
 ## How to play
 
