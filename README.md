@@ -3,7 +3,7 @@
 
 ## Description
 
-When you start the program the board will set itself up. Follow all the normal chess rules and play. There is no checkmate system because it would require a full redesign of the code. I might release a second version in the future with checkmating.
+When you start the program the board will set itself up. Follow all the normal chess rules and play.
 
 ## How to play
 
@@ -55,7 +55,3 @@ Then go into the getMoves() function and add a new statement to the switch case 
 |GameManager  |Controls the basic logic for the game such as game loops, ticks, etc.                                                    |
 |Board        |Controls all the game specific logic related to the board. It creates the pieces, manages the pieces, lets you move, etc.|
 |Piece        |Stores all the data related to a piece on the game board. Also used to determine what pieces are valid on a piece.       |
-
-## Notes
-
-There is no checkmate system built beacuse it will require a redesign of the code. I might create a second version in the future if I want to.
