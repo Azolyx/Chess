@@ -55,3 +55,4 @@ Then go into the getMoves() function and add a new statement to the switch case 
 |GameManager  |Controls the basic logic for the game such as game loops, ticks, etc.                                                    |
 |Board        |Controls all the game specific logic related to the board. It creates the pieces, manages the pieces, lets you move, etc.|
 |Piece        |Stores all the data related to a piece on the game board. Also used to determine what pieces are valid on a piece.       |
+|Resource     |Is used to access the image files when compiled into a jar.                                                              |
