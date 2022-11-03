@@ -56,3 +56,8 @@ Then go into the getMoves() function and add a new statement to the switch case 
 |Board        |Controls all the game specific logic related to the board. It creates the pieces, manages the pieces, lets you move, etc.|
 |Piece        |Stores all the data related to a piece on the game board. Also used to determine what pieces are valid on a piece.       |
 |Resource     |Is used to access the image files when compiled into a jar.                                                              |
+
+
+## Notes
+
+I have not coded in a way for draws with repetition, the 50 move rule, and a dead positions other then 2 kings beacuse I felt that I wanted to move onto other projects.
